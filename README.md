@@ -1,4 +1,5 @@
-This codebase contains the files for training and testing RadQA-DPO. It includes the original RadQA dataset and the preference dataset used to train and test the Supervised Fine-tuning (SFT) and Direct Preference Optimization (DPO) methods.
+This repository contains the PyTorch implementation of our paper **''RadQA-DPO: A Radiology Question Answering System with Encoder-Decoder Models Enhanced by Direct Preference Optimization''** (accepted at BioNLP 2025). It includes the code, the original RadQA dataset, and the preference dataset used in the experiments presented in the paper.
+
 ## System Requirement
 
 * NVIDIA H100 GPUs
