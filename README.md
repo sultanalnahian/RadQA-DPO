@@ -18,7 +18,7 @@ Run the train_sft.py file to train the Supervised Fine Tuned (SFT) model.
 
 Example train command:
 ```
-python train_sft.py --epochs 8
+python train_sft.py
 ```
 
 ### DPO Model
